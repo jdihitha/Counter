@@ -1,0 +1,6 @@
+{
+  "name": "Counter App",
+  "description": "A clean, minimal, and responsive counter application built with React and Vite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
